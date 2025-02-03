@@ -1,0 +1,30 @@
+Deep learning expert 
+pytorch
+open cv
+matplotlib
+pandas 
+numpy 
+flask
+tensorflow
+python
+computer vision
+deep learning
+image proprecessing
+natural language proprecessing
+chatbots
+fast api
+docker 
+aws
+hugging face
+chatgpt
+open ai
+image gen
+ai saas
+ai agents
+llm apps
+MySQL
+Django
+mlops
+tensorflow js
+
+deployment: AWS,  gcp , android 

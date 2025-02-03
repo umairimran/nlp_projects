@@ -1,0 +1,5 @@
+flask
+pdfplumber
+docx
+fitz 
+scikit-learn
